@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMinesweeper", "..\ConsoleMinesweeper\ConsoleMinesweeper.csproj", "{1AC24458-C54C-49F3-B8BA-8E643BB7A656}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMinesweeper", "ConsoleMinesweeper\ConsoleMinesweeper.csproj", "{1AC24458-C54C-49F3-B8BA-8E643BB7A656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSnake", "..\ConsoleSnake\ConsoleSnake.csproj", "{B00E81A5-EB87-4178-ACE9-7F79C1AB9806}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSnake", "ConsoleSnake\ConsoleSnake.csproj", "{B00E81A5-EB87-4178-ACE9-7F79C1AB9806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
